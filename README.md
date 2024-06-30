@@ -6,7 +6,7 @@
 | ------------------------ | ----------- |
 | **Hilga Satria Pambudi** | 21104410009 |
 | **Yoan Ockta Pradana**   | 21104410011 |
-| **Asfin Rizaldy**        | 21104410009 |
+| **Asfin Rizaldy**        | 21104410028 |
 
 A new Flutter project.
 
